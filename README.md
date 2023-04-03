@@ -1,4 +1,4 @@
-![alt text](https://github.com/CodecoolGlobal/spaceship-titanic-python-Przemek9110/blob/[development]/score.png?raw=true)<br>
+![alt text](https://github.com/CodecoolGlobal/spaceship-titanic-python-Przemek9110/blob/development/score.png?raw=true)<br>
 
 # SPACESHIP TITANIC
 The Spaceship Titanic project is an analysis of data related to the fictional space accident that occurred on the Titanic spaceship. The goal of the project is to use machine learning algorithms to predict which passengers will be rescued during the disaster. [More about project](https://www.kaggle.com/competitions/spaceship-titanic)
